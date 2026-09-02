@@ -1,5 +1,4 @@
 {
-  "updateRequired": true,
-  "allowClose": false,
+  "mode": "required",
   "updateUrl": "https://github.com/daniliwex/PurchikGunUpdate"
 }
