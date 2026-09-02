@@ -1,4 +1,5 @@
 {
-    "updateRequired": true,
-    "updateUrl": "https://github.com/daniliwex/PurchikGunUpdate/releases"
+  "updateRequired": false,
+  "allowClose": true,
+  "updateUrl": "https://github.com/daniliwex/PurchikGunUpdate"
 }
